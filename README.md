@@ -18,10 +18,10 @@ This is my first day using github.
 6. Sautday
 7. Sunday
 
-- [y] First
-- [y] Second
-- [y] Third
-- [y] Fourth
-- [y] Fifth
-- [y] Sixth
+- [x] First
+- [x] Second
+- [x] Third
+- [x] Fourth
+- [x] Fifth
+- [x] Sixth
 - [x] Seventh
