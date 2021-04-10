@@ -1,6 +1,15 @@
 # xun_demo
 ## First
+
 This is my first day using github.
+
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
 
 - First
 - Second
@@ -25,3 +34,17 @@ This is my first day using github.
 - [x] Fifth
 - [x] Sixth
 - [x] Seventh
+
+**First**
+
+*Second*
+
+~~Third~~
+
+`Fourth`
+
+>Fifth
+``` js
+Sixth(code feild)
+```
+Seventh
