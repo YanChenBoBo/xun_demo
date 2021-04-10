@@ -29,31 +29,31 @@ Seventh
 
 1. Monday
 
-  2. Tuesday
+	2. Tuesday
 
-    3. wedsday
+		3. wedsday
 
-      4. Thusday
+			4. Thusday
 
-        5. Friday
+				5. Friday
 
-          6. Sautday
+					6. Sautday
 
-            7. Sunday
+						7. Sunday
 
-*First
+* First
 
-  *Second
-  
-    *Third
-    
-       *Fourth
-       
-          *Fifth
-          
-            *Sixth
-            
-              *Seventh
+  * Second
+
+    * Third
+
+       * Fourth
+
+          * Fifth
+
+            * Sixth
+
+              * Seventh
 
 - [x] First
 - [x] Second
